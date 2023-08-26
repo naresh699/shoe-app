@@ -1,0 +1,49 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef1"
+            },
+            "Name": "SNEAKER 1",
+            "Product_Family__c": "@FuseRef",
+            "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "MSRP__c": 2000,
+            "Level__c": "Kids",
+            "Category__c": "Boot",
+            "Material__c": "Leather",
+            "Picture_URL__c": "https://s3-us-west-2.amazonaws.com/dev-or-devrl-s3-bucket/sample-apps/ebikes/fusex1.jpg",
+            "size": 39
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef1"
+            },
+            "Name": "SNEAKER 1",
+            "Product_Family__c": "@FuseRef",
+            "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "MSRP__c": 1500,
+            "Level__c": "Youngster",
+            "Category__c": "Boot",
+            "Material__c": "Leather",
+            "Picture_URL__c": "https://placehold.co/200",
+            "size": 42
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef1"
+            },
+            "Name": "SNEAKER 1",
+            "Product_Family__c": "@FuseRef",
+            "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "MSRP__c": 1800,
+            "Level__c": "Hiking",
+            "Category__c": "running",
+            "Material__c": "Leather",
+            "Picture_URL__c": "https://placehold.co/200",
+            "size": 42
+        }
+    ]
+}

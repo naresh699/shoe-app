@@ -1,0 +1,40 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Product_Family__c",
+                "referenceId": "DynamoRef"
+            },
+            "Name": "Mount Performance",
+            "Description__c": "conquire the mountain, lets take the step to hike, weather shield",
+            "Category__c": "Hiking"
+        },
+        {
+            "attributes": {
+                "type": "Product_Family__c",
+                "referenceId": "FuseRef"
+            },
+            "Name": "Outdoor Performance",
+            "Description__c": "Walk regular, relaxed on hiking",
+            "Category__c": "Outdoor"
+        },
+        {
+            "attributes": {
+                "type": "Product_Family__c",
+                "referenceId": "OutdoorHike"
+            },
+            "Name": "Run and Play",
+            "Description__c": "Best sport shoes",
+            "Category__c": "Commuter"
+        },
+        {
+            "attributes": {
+                "type": "Product_Family__c",
+                "referenceId": "VoltRef"
+            },
+            "Name": "Fun Drive",
+            "Description__c": "Fun and joyful ride",
+            "Category__c": "Lets legs relax when you drive. Best shoes for driving"
+        }
+    ]
+}
