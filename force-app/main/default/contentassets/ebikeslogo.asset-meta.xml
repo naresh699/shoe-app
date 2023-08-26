@@ -2,12 +2,12 @@
 <ContentAsset xmlns="http://soap.sforce.com/2006/04/metadata">
     <isVisibleByExternalUsers>false</isVisibleByExternalUsers>
     <language>en_US</language>
-    <masterLabel>shoe logo</masterLabel>
-    <originNetwork>Shoe-App</originNetwork>
+    <masterLabel>ebikeslogo</masterLabel>
+    <originNetwork>E-Bikes</originNetwork>
     <relationships>
         <network>
             <access>VIEWER</access>
-            <name>Shoe-App</name>
+            <name>E-Bikes</name>
         </network>
         <workspace>
             <access>INFERRED</access>
@@ -18,7 +18,7 @@
     <versions>
         <version>
             <number>1</number>
-            <pathOnClient>shoe-logo.jpg</pathOnClient>
+            <pathOnClient>ebikes-logo.png</pathOnClient>
         </version>
     </versions>
 </ContentAsset>

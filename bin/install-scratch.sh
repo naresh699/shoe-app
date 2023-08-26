@@ -3,7 +3,7 @@ SCRIPT_PATH=$( cd "$(dirname "${BASH_SOURCE[0]}")" ; pwd -P )
 cd $SCRIPT_PATH/..
 
 # Set parameters
-ORG_ALIAS="shoeapp"
+ORG_ALIAS="ebikes"
 
 echo ""
 echo "Installing E-Bikes scratch org ($ORG_ALIAS)"
@@ -23,7 +23,7 @@ sf project deploy start && \
 echo "" && \
 
 echo "Assigning permission sets..." && \
-sf org assign permset -n shoeapp && \
+sf org assign permset -n ebikes && \
 echo "" && \
 
 echo "Importing sample data..." && \
